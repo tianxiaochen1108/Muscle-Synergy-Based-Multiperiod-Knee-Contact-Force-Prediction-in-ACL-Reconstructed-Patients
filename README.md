@@ -1,0 +1,2 @@
+# Muscle-Synergy-Based-Multiperiod-Knee-Contact-Force-Prediction-in-ACL-Reconstructed-Patients
+In this study, a hybrid deep learning model, SSA-CNN-xLSTM, was developed to predict knee contact forces (KCFs) during walking gait at three postoperative rehabilitation stages following anterior cruciate ligament reconstruction (ACLR). The model was implemented, trained, and tested using the PyTorch deep learning framework within PyCharm
